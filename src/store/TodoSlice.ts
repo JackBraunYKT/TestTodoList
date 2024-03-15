@@ -31,7 +31,8 @@ export const TodoSlice = createSlice({
       }
     },
     changeOrderTodos: (state, action: PayloadAction<ITodo[]>) => {
-      return (state = action.payload);
+      state = action.payload;
+      return state;
     },
   },
 });
