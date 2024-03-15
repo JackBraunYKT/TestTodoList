@@ -30,5 +30,6 @@ npm run start
 - TypeScript;
 - React;
 - Redux Toolkit;
+- [Redux-Persist](https://github.com/rt2zz/redux-persist);
 - Tailwind;
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd).
